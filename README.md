@@ -41,9 +41,6 @@ Here are some common tasks I’m asked to help with, but really anything you mig
 
 [![Email Badge](https://img.shields.io/badge/-mail@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:josenaranjo.dev@gmail.com)](mailto:josenaranjo.dev@gmail.com) 
 
-<a href="https://josenaranjo.dev">
- <h2>website</h2>
-</a>
 <!--
 **JoseNaranjoDev/JoseNaranjoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
